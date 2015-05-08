@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FormRegistro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Actividad opcional: Formulario de registro y acceso</string>
+    <string name="registro">Registro</string>
+    <string name="acceso">Acceso</string>
+    <string name="title_activity_acceso">Inicio de sesión</string>
+    <string name="title_activity_registro">Registro de Usuario</string>
+    <string name="text_password">Ingrese la contraseña</string>
+    <string name="text_usuario">Ingrese Usuario</string>
+    <string name="registro_exitoso">Registro exitoso</string>
+    <string name="loading">Cargando . . .</string>
+    <string name="title_activity_inside">InsideActivity</string>
+    <string name="sesion_exitosa">Inicio exitoso</string>
+    <string name="acceso_sesion">Iniciar sesión</string>
+    <string name="mensaje">Has accedido a la aplicación</string>
+    <string name="logout">Cerrar la sesión</string>
+</resources>
